@@ -1,4 +1,6 @@
- 
+ <html>
+ <body>
+  <center><img src=" C:\Users\Lenovo\Desktop\thoiba.html\images"></center>
 Hii…….
 It is thoiba khomdram from Manipur.I am a student and now  learning for future development in many fields.
 Expert skills
@@ -14,4 +16,4 @@ Html programming
 Web development
  15%
 Thanks for visiting my website……..:-))
-
+</html>

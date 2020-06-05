@@ -25,5 +25,4 @@ Web development
  15%
  <br>
 <i>Thanks for visiting my website……..:-))</i></h3>
-</body
-</html>
+

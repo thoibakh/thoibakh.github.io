@@ -22,8 +22,8 @@
 <li>Html programming
  40%
  <br>
-<li>Web development</font>
+<li>Web development
  15%
  <br>
-<font color="green"><i>Thanks for visiting my website……..:-))</i></h3></font>
+<font color="green"><i>Thanks for visiting my website……..:-))</i></font>
 

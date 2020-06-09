@@ -1,28 +1,29 @@
  <html>
  <body>
   <center>
- <i>  <h1>Hii…….</h1>
+ <i>  <h1>Hii…….</h1><h2>Wellcome to my site</h2>
   
   
   
   
   
   
-<h2>It is thoiba khomdram from Manipur.I am a student and now  learning for future development in many fields.</h2>
-<b><h3>Expert skills<br>
- 
-C  programming
+<font color="red"><h2>It is thoiba khomdram from Manipur.I am a student and now  learning for future development in many fields.</h2>
+</font><b><h3><u>Expert skills<br></u>
+ <ul type="disc">
+<font color="blue">
+<li>C  programming
  35%
  <br>
  
-Python programming
+<li>Python programming
  10%
  <br>
-Html programming
+<li>Html programming
  40%
  <br>
-Web development
+<li>Web development</font>
  15%
  <br>
-<i>Thanks for visiting my website……..:-))</i></h3>
+<font color="green"><i>Thanks for visiting my website……..:-))</i></h3></font>
 

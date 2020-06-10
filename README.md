@@ -12,7 +12,9 @@
 </font><b><h3><u>Expert skills<br></u>
  <ul type="disc">
 <font color="blue">
-<li>C  programming
+ 
+![image4](https://user-images.githubusercontent.com/66472128/84245725-20293d00-ab23-11ea-94ba-19ee2656bfd1.png)
+<li>C  programming 
  35%
  <br>
  

@@ -17,7 +17,10 @@
  ![image6](https://user-images.githubusercontent.com/66472128/84249041-e0b11f80-ab27-11ea-940f-13eb36c7135c.png)
   <br>
  
-<li>Python programming
+<li>Python programming<br>
+ ![image5](https://user-images.githubusercontent.com/66472128/84251007-60d88480-ab2a-11ea-9861-12513caf6d91.png)
+
+
  10%
  <br>
 <li>Html programming

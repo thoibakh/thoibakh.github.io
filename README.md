@@ -13,9 +13,8 @@
  <ul type="disc">
 <font color="blue">
 
-![image4](https://user-images.githubusercontent.com/66472128/84256175-32aa7300-ab31-11ea-859c-a7b3b3281e6e.png)
  <li>C  programming <br>
- ![image6](https://user-images.githubusercontent.com/66472128/84256974-486c6800-ab32-11ea-8404-6ddf59593694.png)
+35%
   <br>
  
 <li>Python programming<br>
@@ -29,9 +28,9 @@
  40%
  <br>
 <li>Web development<br>
- ![](https://user-images.githubusercontent.com/66472128/84255161-ddba2d00-ab2f-11ea-93a3-ecc826201993.png)
 
 
+15%
 
  
  <br>

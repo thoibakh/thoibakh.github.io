@@ -15,6 +15,7 @@
 
 ![image4](https://user-images.githubusercontent.com/66472128/84256175-32aa7300-ab31-11ea-859c-a7b3b3281e6e.png)
  <li>C  programming <br>
+ ![image6](https://user-images.githubusercontent.com/66472128/84256974-486c6800-ab32-11ea-8404-6ddf59593694.png)
   <br>
  
 <li>Python programming<br>

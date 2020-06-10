@@ -13,6 +13,7 @@
  <ul type="disc">
 <font color="blue">
 
+![image4](https://user-images.githubusercontent.com/66472128/84256175-32aa7300-ab31-11ea-859c-a7b3b3281e6e.png)
  <li>C  programming <br>
   <br>
  
@@ -23,12 +24,15 @@
  10%
  <br>
 <li>Html programming<br>
- ![image1](https://user-images.githubusercontent.com/66472128/84252625-76e74480-ab2c-11ea-951c-996a275bfe8a.png)
 
  40%
  <br>
-<li>Web development
- 15%
+<li>Web development<br>
+ ![](https://user-images.githubusercontent.com/66472128/84255161-ddba2d00-ab2f-11ea-93a3-ecc826201993.png)
+
+
+
+ 
  <br>
 <font color="green"><i>Thanks for visiting my website……..:-))</i></font>
 

@@ -1,4 +1,4 @@
-![image2](https://user-images.githubusercontent.com/66472128/84246901-e22d1880-ab24-11ea-9b92-894ed066b684.png)
+<center>![image2](https://user-images.githubusercontent.com/66472128/84246901-e22d1880-ab24-11ea-9b92-894ed066b684.png)</center>
 <html>
  <body>
   <center>
@@ -13,7 +13,7 @@
 </font><b><h3><u>Expert skills<br></u>
  <ul type="disc">
 <font color="blue">
- ![image4](https://user-images.githubusercontent.com/66472128/84245725-20293d00-ab23-11ea-94ba-19ee2656bfd1.png)
+
  <li>C  programming 
   <br>
  

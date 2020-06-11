@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <!--
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -48,9 +48,7 @@
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
 									</div>
-									<span class="image object">
-										<img src="C:\Users\Lenovo\Desktop\thoiba.html\images\hi.png" alt="image of thoiba khomdram" />
-									</span>
+	
 								</section>
 
 							<!-- Section -->
@@ -102,27 +100,27 @@
 										<article>
 											<a href="#" class="image"><img src="C:\Users\Lenovo\Desktop\thoiba.html\images\image4.png" alt="" /></a>
 											<h3>C programming</h3>
-											<a href="#" class="image"><img src="C:\Users\Lenovo\Desktop\thoiba.html\images\image6.png" alt="" /></a>
+											35%
 											
 										</article>
 										<article>
-											<a href="#" class="image"><img src="C:\Users\Lenovo\Desktop\thoiba.html\images\image7.png" alt="" /></a>
+											
 											<h3>Python programming</h3>
 								<p>Beginner</p>	
 											
 										</article>
 										<article>
-											<a href="#" class="image"><img src="C:\Users\Lenovo\Desktop\thoiba.html\images\image8.png" alt="" /></a>
+											
 											<h3>HTML programming</h3>
-											<a href="#" class="image"><img src="C:\Users\Lenovo\Desktop\thoiba.html\images\image1.png" alt="" /></a>
+											40%
 											
 										</article>
 										<article>
-											<a href="#" class="image"><img src="C:\Users\Lenovo\Desktop\thoiba.html\images11.png" alt="" /></a>
+
 											
 											
 											<h3>Wed designing</h3>
-											<a href="#" class="image"><img src="C:\Users\Lenovo\Desktop\thoiba.html\images\image3.png" alt="" /></a>
+											15%
 								
 										</article>
 										
@@ -151,7 +149,7 @@
 							<h3>	I have done the project of sowing seeds using drone in the field.</h3>
 						<h2><i>	<a href="https://www.youtube.com/watch?v=lFcN1z5FKYA">click here to watch the video of sowing seeds using drone in the field by thoiba khomdram.</a></i></h2>
 						</article>									
-				</section>
+				
 			</div>
 	
 				
@@ -163,10 +161,10 @@
 									Contact:9612918707
 								</footer>
 
-						</div>
-					</div>
+						
+					
 
-			</div>
+			
 			<i> <h1> thanks everyone for visiting my website.....</h1></i>
 
 		<!-- Scripts -->
@@ -176,5 +174,5 @@
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
 
-	</body>
-</html>
+	
+
